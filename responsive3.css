@@ -1,0 +1,42 @@
+@media all and (max-width: 1000px) {
+    .content {
+      width: 50%;
+      margin: 20px auto;
+    }
+    
+    
+    
+}
+@media all and (max-width: 670px) {
+    .content {
+      width: 100%;
+    }
+    
+    .footer {
+      text-align: center;
+    }
+  .footer-list-title {
+    font-size: 15px;
+    }
+
+    .container {
+      text-align: left;
+    }
+    
+
+    .container h2 {
+      font-size: 20px;
+      line-height: 25px;
+      text-align: center;
+      font-weight: bolder;
+    }
+    
+    .container p {
+      font-size: 18px;
+      line-height: 20px;
+      text-align: center;
+    }
+    .content h3{
+        font-size: 20px;
+    }
+  }
